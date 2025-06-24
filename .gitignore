@@ -28,8 +28,9 @@ env/
 .jupyter/
 jupyter_notebook_config.py
 
-# VS Code 设置（如果混合使用）
+# VS Code 设置
 .vscode/
+.idea/
 
 # 系统文件
 .DS_Store
