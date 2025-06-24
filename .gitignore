@@ -1,0 +1,46 @@
+# JupyterLab
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# 历史文件与临时文件
+~$*
+*.bak
+*.tmp
+
+# 数据文件 & 缓存
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.npy
+__pycache__/
+.pytest_cache/
+
+# 环境与配置
+.env
+.venv/
+venv/
+env/
+*.env
+.secrets
+
+# JupyterLab 配置文件
+.jupyter/
+jupyter_notebook_config.py
+
+# VS Code 设置（如果混合使用）
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编译输出
+*.pyc
+__pycache__/
+
+# 包安装目录
+site/
+dist/
+build/
+*.egg-info/
